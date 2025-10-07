@@ -30,6 +30,9 @@ def test_given_anonymize_with_bytes_key_then_aes_encrypt_result_is_returned(
 
     assert anonymized_text == expected_anonymized_text
 
+def test_operator_name():
+    Encrypt().validate(params={"key": "128bitslengthkey"})
+
 
 def test_given_verifying_an_valid_length_key_no_exceptions_raised():
     Encrypt().validate(params={"key": "128bitslengthkey"})
