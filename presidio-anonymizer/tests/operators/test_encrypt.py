@@ -62,3 +62,18 @@ def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(mock_valida
         match="Invalid input, key must be of length 128, 192 or 256 bits",
     ):
         Encrypt().validate(params={"key": b'1111111111111111'})
+
+@pytest.mark.parametrize(
+        # fmt: off
+    "key",
+    [
+        "128bitslengthkey",
+        "192bitslengthkey",
+        "256bitslengthkey",
+        b'1111111111111111',
+        b'11111111111111111111111111111111'
+    ],
+    # fmt: on
+)
+def test_valid_keys(key):
+    Encrypt().validate(params = {"key": key})
