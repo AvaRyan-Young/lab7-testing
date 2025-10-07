@@ -294,7 +294,6 @@ def test_logger(mock_logger):
     for keyword in ['entity', '0.8', '0', '10']:
         assert keyword in mockTest
     
-    #Asserts the log message contains the entity_type, start, end, and score values (the values you used to create the recognizer result).
 
 def create_recognizer_result(entity_type: str, score: float, start: int, end: int):
     data = {"entity_type": entity_type, "score": score, "start": start, "end": end}
