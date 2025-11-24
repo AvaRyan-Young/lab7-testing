@@ -9,13 +9,15 @@ Branches in this repo (with details):
     534f0a8 | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T21:05:42Z | Merge branch 'lab7'
     fcd2be0 | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T21:03:50Z | added test_given_conflict_input_then_merged_correctly
     4a2c9fa | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T20:48:06Z | wrote test_valid_keys
-- dependabot/github_actions/actions/checkout-5
-  SHA: a688544fcdcd04796738bb224a08528ce4618d87
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: d0bde76cf292440079af0af805bb79424a609ac1
+  Commits: 18
   Recent commits:
-    a688544 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T17:37:04Z | Bump actions/checkout from 3 to 5
-    f892f63 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:36:24Z | Auto-update branch-info.txt
-    f9822e3 | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T13:36:10-04:00 | Initial commit
+    d0bde76 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T08:52:48Z | Bump actions/checkout from 3 to 6
+    56f8277 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T08:23:25Z | Auto-update branch-info.txt
+    3dd765b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T21:06:20Z | Auto-update branch-info.txt
+    534f0a8 | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T21:05:42Z | Merge branch 'lab7'
+    fcd2be0 | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T21:03:50Z | added test_given_conflict_input_then_merged_correctly
 - lab7
   SHA: 1eefd1ea1544efa8a42c861a1ca68f5c9ee510cb
   Commits: 8
@@ -26,11 +28,11 @@ Branches in this repo (with details):
     6a920fb | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T19:05:36Z | changes to test recognizer result
     4edc4d7 | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T19:00:00Z | changes to test_recognizer_result.py
 - main
-  SHA: 3dd765b615c0edf2adaf79f3e7b728f1fc1e6e94
-  Commits: 16
+  SHA: 56f82770e298b0bdcbf92c6b9652cc4250b901be
+  Commits: 17
   Recent commits:
+    56f8277 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T08:23:25Z | Auto-update branch-info.txt
     3dd765b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T21:06:20Z | Auto-update branch-info.txt
     534f0a8 | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T21:05:42Z | Merge branch 'lab7'
     fcd2be0 | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T21:03:50Z | added test_given_conflict_input_then_merged_correctly
     4a2c9fa | Author: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Committer: Ava Ryan-Young <232468483+AvaRyan-Young@users.noreply.github.com> | Date: 2025-10-07T20:48:06Z | wrote test_valid_keys
-    84b7381 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:36:55Z | Auto-update branch-info.txt
